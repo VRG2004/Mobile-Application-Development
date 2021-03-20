@@ -6,3 +6,4 @@
     ->To develop an application that makes use of Notification Manager
     ->To implement an application that uses Multi-threading
     ->To implement an application that writes data to the SD Card
+    ->To implement an application that creates an alert upon receiving a message
