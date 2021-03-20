@@ -9,3 +9,4 @@
     ->To implement an application that creates an alert upon receiving a message
     ->To write a mobile application that makes use of RSS Feed
     ->To develop a mobile application to send an email.
+    ->To develop a Mobile application for simple needs
