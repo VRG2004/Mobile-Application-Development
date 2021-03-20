@@ -5,3 +5,4 @@
     ->To develop an application that makes use of database
     ->To develop an application that makes use of Notification Manager
     ->To implement an application that uses Multi-threading
+    ->To implement an application that writes data to the SD Card
