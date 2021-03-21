@@ -76,4 +76,3 @@ break;
 Result.setText(num1 + " " + oper + " " + num2 + " = " + result);
 }
 }
-}
