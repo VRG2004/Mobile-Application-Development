@@ -10,7 +10,7 @@ import android.widget.Toast;
 import android.widget.ToggleButton;
 import java.util.Calendar;
 import androidx.appcompat.app.AppCompatActivity;
-public class Act extends AppCompatActivity
+public class MainActivity extends AppCompatActivity
 {
 TimePicker alarmTimePicker;
 PendingIntent pendingIntent;
