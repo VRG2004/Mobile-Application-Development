@@ -9,6 +9,6 @@
    - Program7 - To develop a native application that uses GPS location information
    - Program8 - To implement an application that writes data to the SD card
    - Program9 - To implement an application that creates an alert upon receiving a message
-   - Program10 - 
+   - Program10 - To develop an application to send an Email
    
  
